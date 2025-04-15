@@ -21,6 +21,15 @@ The collected data is transmitted to a **Firebase Realtime Database**, providing
   - **Data Visualization**: Displays real-time and historical movement data.
   - **Password Recovery**: Facilitates secure password reset procedures.
 
+
+## 📸 Example Photos
+
+> *(Add images below once available – showing the ESP32, gyro sensors on the knee brace, breadboard setup, and screenshots of the website)*
+
+![Device Setup]([images/device_setup.jp](https://i.imgur.com/DpRrWEZ.png)
+![Worn on Knee](images/on_knee.jpg)
+![Web Interface](images/web_interface.jpg)
+
 ## System Workflow
 
 1. **Data Acquisition**: The ESP32 collects motion data from the gyroscopic sensors during user activity.
@@ -32,15 +41,16 @@ The collected data is transmitted to a **Firebase Realtime Database**, providing
 The project's repository is organized as follows:
 
 Knee-Care/
-├── Firebase-ESP/                 # Firmware for ESP32 to interface with Firebase
-├── JavaScript/                   # JavaScript files for web application functionality
-├── Working-mpu6050-to-Firebase/  # Code for transmitting MPU6050 sensor data to Firebase
-├── CSS/                          # Stylesheets for the web application
-├── HTML/                         # HTML files for the web interface
-├── Images/                       # Project-related images and media files
-├── Docs/                         # Documentation and design-related materials
-├── LICENSE                       # License file for the project
-├── README.md                     # Overview and details of the project
+├── firebase-esp/                 # ESP32 firmware interfacing with Firebase
+├── javascript/                   # JavaScript files for web application functionality
+├── working-mpu6050-to-firebase/  # Code for transmitting MPU6050 sensor data to Firebase
+├── css/                          # Stylesheets for the web application
+├── html/                         # HTML files for the web interface
+├── images/                       # Project-related images and media files
+├── docs/                         # Documentation and design-related materials
+├── license                       # License file for the project
+├── readme.md                     # Overview and details of the project
+
 
 
 ## Security and Privacy
