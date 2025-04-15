@@ -1,4 +1,4 @@
-# KneeCare – Intelligent Knee Health Monitoring System
+![image](https://github.com/user-attachments/assets/9ebb4739-7fe4-4cd1-8988-8fc213fb90be)# KneeCare – Intelligent Knee Health Monitoring System
 
 **KneeCare** is an innovative wearable device designed to monitor and analyze knee health in real-time. Utilizing an **ESP32 microcontroller** paired with **two gyroscopic sensors (GYROs)** mounted on a knee protector, the system captures detailed movement data during physical activities. Its portability is ensured by a battery integrated onto a breadboard adjacent to the ESP32, allowing users to move freely while wearing the device.
 
@@ -27,8 +27,8 @@ The collected data is transmitted to a **Firebase Realtime Database**, providing
 > *(Add images below once available – showing the ESP32, gyro sensors on the knee brace, breadboard setup, and screenshots of the website)*
 
 ![KneeCare Device](https://i.imgur.com/DpRrWEZ.png)
-![Worn on Knee](images/on_knee.jpg)
-![Web Interface](images/web_interface.jpg)
+![Knee](https://i.imgur.com/miewglJ.png)
+![GYRO](https://i.imgur.com/qxzGwvp.png)
 
 ## System Workflow
 
