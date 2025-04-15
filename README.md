@@ -26,7 +26,7 @@ The collected data is transmitted to a **Firebase Realtime Database**, providing
 
 > *(Add images below once available – showing the ESP32, gyro sensors on the knee brace, breadboard setup, and screenshots of the website)*
 
-![Device Setup]([images/device_setup.jp](https://i.imgur.com/DpRrWEZ.png)
+![Device Setup]([img]https://i.imgur.com/DpRrWEZ.png[/img])
 ![Worn on Knee](images/on_knee.jpg)
 ![Web Interface](images/web_interface.jpg)
 
