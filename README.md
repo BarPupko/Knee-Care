@@ -36,8 +36,8 @@ The collected data is transmitted to a **Firebase Realtime Database**, providing
 2. **Data Transmission**: Captured data is wirelessly transmitted to the Firebase Realtime Database.
 3. **Data Access**: Users log into the web application to view and analyze their movement data, which is securely linked to their unique user ID.
 
-##Folder Structure Conventions
-##============================
+## Folder Structure Conventions
+## ============================
 
 > Folder structure options and naming conventions for software projects
 
