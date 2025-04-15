@@ -29,8 +29,20 @@ The collected data is transmitted to a **Firebase Realtime Database**, providing
 
 ## Folder Structure
 
+## Folder Structure
+
 The project's repository is organized as follows:
-Knee-Care/ ├── Firebase-ESP/ # Firmware for ESP32 to interface with Firebase ├── JavaScript/ # JavaScript files for web application functionality ├── Working-mpu6050-to-Firebase/ # Initial attempts to connect MPU6050 sensor to Firebase ├── css/ # Stylesheets for web application ├── html/ # HTML files for web interface ├── image/ # Images used in the web application ├── website/ # Web application source code ├── README.md # Project documentation (this file) ├── package-lock.json # Dependency tree for Node.js packages └── script.js # Main JavaScript file for web application interactivity
+
+Knee-Care/
+├── Firebase-ESP/                 # Firmware for ESP32 to interface with Firebase
+├── JavaScript/                   # JavaScript files for web application functionality
+├── Working-mpu6050-to-Firebase/  # Code for transmitting MPU6050 sensor data to Firebase
+├── CSS/                          # Stylesheets for the web application
+├── HTML/                         # HTML files for the web interface
+├── Images/                       # Project-related images and media files
+├── Docs/                         # Documentation and design-related materials
+├── LICENSE                       # License file for the project
+├── README.md                     # Overview and details of the project
 
 
 ## Security and Privacy
