@@ -1,7 +1,7 @@
 ![KneeCare Device](https://i.imgur.com/DpRrWEZ.png)
 ![Description of GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTB4MzFnaDNlY2JrN2Y1YmFhMTdoenpqenU2YW96b2p0aWdzZXkydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PLwDML27b3sFuBYxlo/giphy.gif)
 ![Description of GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWV4YTJwam1pYjBqeGxrb3BqZHJnODVuMG5xdW11eWc0dXB2eXp2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P9zKIAXygDJb7cndZM/giphy.gif)
-))
+
 
 # KneeCare – Intelligent Knee Health Monitoring System
 
