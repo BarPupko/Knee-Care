@@ -29,8 +29,6 @@ The collected data is transmitted to a **Firebase Realtime Database**, providing
 
 ## Folder Structure
 
-## Folder Structure
-
 The project's repository is organized as follows:
 
 Knee-Care/
