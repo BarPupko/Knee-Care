@@ -36,28 +36,24 @@ The collected data is transmitted to a **Firebase Realtime Database**, providing
 2. **Data Transmission**: Captured data is wirelessly transmitted to the Firebase Realtime Database.
 3. **Data Access**: Users log into the web application to view and analyze their movement data, which is securely linked to their unique user ID.
 
-## Folder Structure
+##Folder Structure Conventions
+##============================
 
-The project's repository is organized as follows:
+> Folder structure options and naming conventions for software projects
 
-Knee-Care/
-├── firebase-esp/                 # ESP32 firmware interfacing with Firebase
-├── javascript/                   # JavaScript files for web application functionality
-├── working-mpu6050-to-firebase/  # Code for transmitting MPU6050 sensor data to Firebase
-├── css/                          # Stylesheets for the web application
-├── html/                         # HTML files for the web interface
-├── images/                       # Project-related images and media files
-├── docs/                         # Documentation and design-related materials
-├── license                       # License file for the project
-├── readme.md                     # Overview and details of the project
+### Knee-Care top-level directory layout
 
- .
-    ├── ...
-    ├── test                    # Test files (alternatively `spec` or `tests`)
-    │   ├── benchmarks          # Load and stress tests
-    │   ├── integration         # End-to-end, integration tests (alternatively `e2e`)
-    │   └── unit                # Unit tests
-    └── ...
+    .
+    ├── firebase-esp/                 # ESP32 firmware interfacing with Firebase
+    ├── javascript/                   # JavaScript files for web application functionality
+    ├── working-mpu6050-to-firebase/  # Code for transmitting MPU6050 sensor data to Firebase
+    ├── css/                          # Stylesheets for the web application
+    ├── src                     # Source files (alternatively `lib` or `app`)
+    ├── images/                       # Project-related images and media files
+    ├── docs/                         # Documentation and design-related materials
+    ├── License                       # License file for the project
+    └── README.md
+
 
 ## Security and Privacy
 
