@@ -42,8 +42,6 @@ The collected data is transmitted to a **Firebase Realtime Database**, providing
 3. **Data Access**: Users log into the web application to view and analyze their movement data, which is securely linked to their unique user ID.
 
 ## Folder Structure Conventions
-## ============================
-
 > Folder structure options and naming conventions for software projects
 
 ### Knee-Care top-level directory layout
